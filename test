@@ -1,0 +1,18 @@
+print("hello python")
+if 4 in [1,2,3,4] : print('4가 있습니다')
+
+a = 1
+print(type(a))
+
+print('you\tneed\npython')
+
+b = 'sex'  
+print(b*10)
+
+c = '12123425125'
+print(c[::-2])
+
+number = 10
+days = 'three'
+e = "I ate %d apples so I was sick for %s days."% (number, days)
+print (e)
